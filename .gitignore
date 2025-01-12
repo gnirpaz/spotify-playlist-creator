@@ -9,3 +9,9 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db 
+
+# Playlist validation
+playlist_validation.txt
+
+# Cache
+.cache
